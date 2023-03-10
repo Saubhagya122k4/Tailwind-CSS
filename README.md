@@ -9,9 +9,9 @@ Tailwind site: https://tailwindcss.com/docs/installation
 
 ◉ You can access Tailwind CSS version 2.O by just pasting this embeded link under the head tag like this:
 
-<head>
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"> Just appy this link to access the Tailwind CSS
-</head>
+<!-- <head>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"> Just apply this link to access the Tailwind CSS
+</head> -->
 
 ◉ To access the Latest version of the Tailwind CSS just follow the Boilerplate that u can able to see in the Repository or just can use the below link:
 
