@@ -72,4 +72,6 @@ Tailwind site: https://tailwindcss.com/docs/installation
 
 
 ```
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saubhagya-vishwakarma-48734a243/)
+[![instagram](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saubhagya122004/?theme=dark)
