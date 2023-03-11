@@ -1,4 +1,4 @@
-# Tailwind-CSS
+# How to Use Tailwind
 This Repository contain some Awesome Tailwind CSS component that u can able to use directly for your Web 
 
 ☣ Read the below information very carefully
