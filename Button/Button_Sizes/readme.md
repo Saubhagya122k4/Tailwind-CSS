@@ -9,8 +9,7 @@
 https://tailwindcss.com/docs/font-size
 
 ## Preview
-
-
+![Screenshot 2023-03-12 140453](https://user-images.githubusercontent.com/106757586/224533551-e4e46c86-cc8f-497c-aebb-6a56f3267ee8.jpg)
 
 
 ## Code
@@ -34,5 +33,6 @@ Use the below code to create the button
 - [@saubhagya122k4](https://github.com/Saubhagya122k4)
 
 
-![Logo]()
+
+
 
