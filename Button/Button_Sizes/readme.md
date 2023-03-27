@@ -13,6 +13,7 @@ https://tailwindcss.com/docs/font-size
 
 
 ## Code
+◉ Always firstly read the Tailwind CSS Repo Readme.md file to know the Tailwind CSS installation or just follow the link: https://github.com/Saubhagya122k4/Tailwind-CSS/blob/main/README.md
 
 Use the below code to create the button
 
