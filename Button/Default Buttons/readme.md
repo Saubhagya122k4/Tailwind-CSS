@@ -3,11 +3,14 @@
 
 ## Preview (Img & Video)
 ### Image
+
 ![image](https://github.com/Saubhagya122k4/Tailwind-CSS/assets/106757586/5c375c0e-905a-4787-bbf2-f9f8c3778524)
 ### Video
+
 https://github.com/Saubhagya122k4/Tailwind-CSS/assets/106757586/f03bd86f-56ab-4915-b2d2-f428adec71ce
 
 ## Code
+
 ◉ Always firstly read the Tailwind CSS Repo Readme.md file to know the Tailwind CSS installation or just follow the link: https://github.com/Saubhagya122k4/Tailwind-CSS/blob/main/README.md
 
 Use the below code to create the button
@@ -42,3 +45,12 @@ Use the below code to create the button
 ```bash
 <button type="button" class="focus:outline-none text-white bg-purple-600 hover:bg-purple-700 focus:ring-4 focus:ring-purple-900 font-semibold rounded-lg text-sm px-5 py-2.5 mb-2">Purple</button>
 ```
+
+## Authors
+- [@saubhagya122k4](https://github.com/Saubhagya122k4)
+
+## 🔗 Links
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saubhagya-vishwakarma-48734a243/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saubhagya122004/?theme=dark)
+[![CodePen](https://img.shields.io/badge/CodePen-0A66C2?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Code-Tech)
+
