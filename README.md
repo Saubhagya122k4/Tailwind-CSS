@@ -73,5 +73,6 @@ Tailwind site: https://tailwindcss.com/docs/installation
 
 ```
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saubhagya-vishwakarma-48734a243/)
-[![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saubhagya122004/?theme=dark)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saubhagya-vishwakarma-48734a243/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saubhagya122004/?theme=dark)
+[![CodePen](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Code-Tech)
