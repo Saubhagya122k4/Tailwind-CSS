@@ -35,15 +35,15 @@ Tailwind site: https://tailwindcss.com/docs/installation
 1) First install node js in the system.
 
 2) visit the site of tailwind css installation page
-==> ```bash npm install -D tailwindcss postcss autoprefixer ```  -> give this command in the cmd terminal
-==> ```bash npx tailwindcss init ``` -> then give the command. This will open the tailwind.config.js file
-==> int the tailwind.config.js file change the content[] -> ' ```bash content["*"] ``` ', then close the file 
+==> ``` npm install -D tailwindcss postcss autoprefixer ```  -> give this command in the cmd terminal
+==> ``` npx tailwindcss init ``` -> then give the command. This will open the tailwind.config.js file
+==> int the tailwind.config.js file change the content[] -> ' ``` content["*"] ``` ', then close the file 
 
-3) add the ```bash <script src="https://cdn.tailwindcss.com"></script> ``` in the head of the html 
+3) add the ``` <script src="https://cdn.tailwindcss.com"></script> ``` in the head of the html 
 
-4) the give the command ==> ```bash npm install vite ```
+4) the give the command ==> ``` npm install vite ```
 
-5) give the command ==> ```bash npm init ``` (it will create the package.json file)
+5) give the command ==> ``` npm init ``` (it will create the package.json file)
 
 6) go to package.json file and add the 
 ```bash
@@ -51,7 +51,7 @@ Tailwind site: https://tailwindcss.com/docs/installation
     "start": "vite"
   },
  ```
-7) then give the command ==> ```bash npm run start ``` (it will run the vite and then vite will give you some instructions just follow that so you can run it through port)
+7) then give the command ==> ``` npm run start ``` (it will run the vite and then vite will give you some instructions just follow that so you can run it through port)
 
 ```bash
 
