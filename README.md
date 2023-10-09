@@ -36,16 +36,19 @@ Tailwind site: https://tailwindcss.com/docs/installation
 
 2) visit the site of tailwind css installation page
 ==> ``` npm install -D tailwindcss postcss autoprefixer ```  -> give this command in the cmd terminal
+
 ==> ``` npx tailwindcss init ``` -> then give the command. This will open the tailwind.config.js file
+
 ==> int the tailwind.config.js file change the content[] -> ' ``` content["*"] ``` ', then close the file 
 
-3) add the ``` <script src="https://cdn.tailwindcss.com"></script> ``` in the head of the html 
 
-4) the give the command ==> ``` npm install vite ```
+4) add the ``` <script src="https://cdn.tailwindcss.com"></script> ``` in the head of the html 
 
-5) give the command ==> ``` npm init ``` (it will create the package.json file)
+5) the give the command ==> ``` npm install vite ```
 
-6) go to package.json file and add the 
+6) give the command ==> ``` npm init ``` (it will create the package.json file)
+
+7) go to package.json file and add the 
 ```bash
 "scripts": {
     "start": "vite"
